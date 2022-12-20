@@ -1,0 +1,31 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+select{
+    width: 200px;
+    height: 40px;
+    font-size: 25px;
+}
+
+li{
+    list-style: none;
+    font-size: 30px;
+}
+
+#btn{
+    width: 120px;
+    height: 40px;
+    font-size: 25px;
+    font-family: 'monospace';
+    background-color: rgb(131, 123, 123);
+    border: none;
+}
+
+ul{
+    padding-top: 20px;
+}
